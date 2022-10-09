@@ -1,5 +1,5 @@
 ### Hi there welcome  I'm DiegoDev 👋
-I am a frontend developer, with experience based on personal projects and self-taught learning. I am currently studying in platzi, programming and English.
+I am a frontend developer Junior, with experience based on personal projects and self-taught learning. I am currently studying in platzi, programming and English.
 I am a very curious person, who likes to investigate.
 
 You can contact me through the following email: jdiegommoreno05@gmail.com
